@@ -14,7 +14,7 @@ form.addEventListener("submit", async function(event) {
     try {
 
         // Send data to backend
-        const response = await fetch("http://localhost:3000/api/auth/register", {
+        const response = await fetch("https://taskapp-backend-dydi.onrender.com/api/auth/register", {
             method: "POST",
 
             headers: {

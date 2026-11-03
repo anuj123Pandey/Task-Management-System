@@ -9,7 +9,7 @@ const user = JSON.parse(
     localStorage.getItem("user") || "null"
 );
 
-const API_URL = "http://localhost:3000/api/tasks";
+const API_URL = "https://taskapp-backend-dydi.onrender.com/api/tasks";
 
 
 // =====================================
