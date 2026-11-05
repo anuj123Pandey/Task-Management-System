@@ -161,9 +161,6 @@ The application will open in your browser.
 Authorization: Bearer YOUR_JWT_TOKEN
 ```
 
-## Screenshots
-
-Screenshots of the application will be added here.
 
 <!-- Add screenshots after deployment -->
 
